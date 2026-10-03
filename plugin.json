@@ -1,0 +1,19 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "woia-software-development-conventions",
+  "version": "0.5.0",
+  "description": "Reusable development conventions capability for repository-built software.",
+  "author": {
+    "name": "Turpial AI Academy",
+    "url": "https://github.com/Turpial-AI-Academy"
+  },
+  "homepage": "https://github.com/Turpial-AI-Academy/woia-software-development-conventions-agent-plugin",
+  "repository": "https://github.com/Turpial-AI-Academy/woia-software-development-conventions-agent-plugin",
+  "license": "MIT",
+  "keywords": [
+    "agent-plugin",
+    "woia",
+    "software",
+    "development-conventions"
+  ]
+}

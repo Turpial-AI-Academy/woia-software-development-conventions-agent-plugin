@@ -1,0 +1,22 @@
+{
+  "schema": "dev.woia.provider-manifest/v1",
+  "version": "0.5.0",
+  "authoring_profile": "thin",
+  "department": "software",
+  "capability": "development-conventions",
+  "skill": "development-conventions",
+  "source_lineage": {
+    "repository": "Turpial-AI-Academy/development-conventions-agent-plugin",
+    "version": "1.0.1",
+    "commit": "f9ce2ad19717989053ee938ca14efa213a0769c5"
+  },
+  "migrated_portable_paths": [
+    "skills/development-conventions/SKILL.md",
+    "skills/development-conventions/assets/README.md",
+    "skills/development-conventions/assets/development-conventions.template.md",
+    "skills/development-conventions/references/DEVELOPMENT_CONVENTIONS_STANDARD.md",
+    "skills/development-conventions/references/DISCOVERY_AND_DECISION.md",
+    "skills/development-conventions/references/README.md",
+    "skills/development-conventions/references/VALIDATION_AND_HANDOFF.md"
+  ]
+}
