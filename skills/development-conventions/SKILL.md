@@ -33,7 +33,7 @@ This capability is a conventions capability, not a generic style rewrite. Preser
 - Record exact commands and their source when a command is part of the working contract.
 - Never report a skipped, historical, or unexecuted quality check as current PASS evidence.
 - Keep security, testing, architecture, CI/CD, and environment policy within their own capability boundaries; reference their established contracts rather than silently taking ownership of them.
-- The plugin must remain usable without ASPS.
+- The plugin must remain independently usable.
 
 ## Bounded amendment
 

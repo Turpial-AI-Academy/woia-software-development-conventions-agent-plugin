@@ -103,4 +103,4 @@ remaining risks:
 
 ASPS is optional. When this capability is invoked for the ASPS phase-8 contract, use `docs/project/08-DEVELOPMENT-CONVENTIONS.md` unless the orchestrator supplies an equivalent project-owned target.
 
-The portable skill does not require ASPS at runtime.
+The portable skill provides self-contained runtime instructions.
